@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+.card {
+    box-shadow: 0, 4px, 8px, 0 rgba(250, 10, 0);
+    border-radius: ;
+}
