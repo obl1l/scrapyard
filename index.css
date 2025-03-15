@@ -17,9 +17,14 @@ body {
     border-radius: 20px;
     padding: 20px;
     color:black;
+    padding: 10px;
 }
 
 .card:hover {
     color: yellow;
     background-color: blue;
+}
+
+.row {
+    padding: 10px;
 }
